@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>My Super Cool and Unique Webpage</title>
+</head>
+
+<body>
+	<h1>So many unique things</h1>
+	<nav>
+		<a href=“#about”>about</a>
+		<a href=“#gallery”>Gallery</a>
+		<a href=“#contact”>Contact</a>
+	</nav>
+	</header>
+<main>
+	<section id=“about”>
+	<h2>the history of all the cool things in the world><h2>
+	<figure>
+	<img src=“coolthings.jpg” alt=“Some cool things!”>
+	<figcaption>Semantic code improves readability</figcaption>
+	</figure>
+	</section>
+	<section id=“gallery”>
+	<h2>The gallery of all the cool things we have<h2>
+	<section id=“Contact”>
+	<h2>Contact Us</h2>
+		<form action =“#” method “post”>
+		<label for=“name”>Name:</label>
+		<input type=“text” id=“name” name=“name” required>
+<label for=“email”>Email:</label>
+<label for=“message”>Message:</label>
+<textarea id=“message” name+”message” rows=“4” required>
+</textarea><br>
+<button type=“submit”>Destroy</button>
+</form>
+</section>
+<footer>
+	<h2>Come talk to us about the cool things!<h2>
+	<p>Come check out all the cool and unique things</p>
+</body>
+
+<html>
